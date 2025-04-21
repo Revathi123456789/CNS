@@ -1,6 +1,6 @@
 ## EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-## NAME: DHANUSHA K
-## REG NO: 212223040034
+## NAME: REVATHI K
+## REG NO: 212223040169
 ## AIM:
 
 To implement the simple substitution technique named Caesar cipher using C language.
